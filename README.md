@@ -1,7 +1,4 @@
-# sleep-health-analysis-r
-Análisis exploratorio de factores asociados a trastornos del sueño · R
-
-# Sleep Health & Lifestyle — Análisis Exploratorio en R
+# Sleep Health and Lifestyle - Análisis Exploratorio en R
 
 **Herramientas:** R · dplyr · ggplot2 · scales
 **Contexto:** Trabajo práctico — Algoritmos y Programación I
