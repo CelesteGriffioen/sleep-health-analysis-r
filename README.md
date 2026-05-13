@@ -1,7 +1,7 @@
 # Sleep Health and Lifestyle - Análisis Exploratorio en R
 
 **Herramientas:** R · dplyr · ggplot2 · scales
-**Contexto:** Trabajo práctico — Algoritmos y Programación I
+**Contexto:** Trabajo práctico - Algoritmos y Programación I
 **Dataset:** Sleep Health and Lifestyle Dataset (Kaggle)
 
 ---
