@@ -31,3 +31,8 @@ descriptivo y regresión lineal simple.
 ## Nota sobre el dataset
 Los datos son de naturaleza sintética, generados por el autor
 del dataset con fines ilustrativos. 
+
+## Integrantes
+- Celeste Griffioen
+- Anne Kavugho Nguru
+- Sofia Suarez
